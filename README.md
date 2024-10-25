@@ -62,7 +62,8 @@ Connect
 💸 ## Support Me
 
 If you enjoy my work, please consider buying me a coffee!
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white&style=flat)](https://buymeacoffee.com/azgsami)
+
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-orange?logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/azgsami)
 
 
 License
