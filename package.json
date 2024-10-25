@@ -1,0 +1,28 @@
+{
+  "name": "arrkit",
+  "version": "1.0.1",
+  "description": "Efficient array chunking utility with TypeScript support",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "array",
+    "chunk",
+    "split",
+    "utility",
+    "typescript"
+  ],
+  "author": "Azag",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.25.9",
+    "@types/jest": "^29.5.14",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.0.0"
+  }
+}
